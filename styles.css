@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+}
+
+.contenedor{
+    background-color: white;
+    width: 50%;
+    position: absolute;
+    height: 500px;
+    margin-left: 20%;
+    margin-top: 10%;
+    border: solid;
+}
+
+.cabeza{
+
+    position: relative;
+    border: solid;
+}
+
+.post_head{
+
+    position:absolute;
+    margin-right: 70%;
+    font-family: 'Akaya Kanadaka', cursive;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.post_der{
+
+    position: absolute;
+    margin-left: 85%;
+    margin-top: 10px;
+    margin-right: 10px;
+   
+}
+.post_der img{
+    width: 80px;
+}
+.texto{
+
+    text-align: left;
+    position: absolute;
+    margin-top: 20%;
+    font-family: 'Akaya Kanadaka', cursive;
+    margin-right: 50%;
+    font-size: x-large;
+    margin-left: 10px;
+}
+
+.inputs{
+ 
+    text-align: left;
+    position: absolute;
+    margin-top: 20%;
+    font-family: 'Akaya Kanadaka', cursive;
+    margin-left: 65%;
+    font-size: x-large;
+    margin-right: 10px;
+}
+footer{
+    text-align: center;
+    margin: auto;
+    margin-top: 60%;
+}
